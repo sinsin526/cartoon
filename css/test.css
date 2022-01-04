@@ -1,0 +1,32 @@
+body{
+	background-color: LemonChiffon;
+}
+h1{
+	font-size: 30px;
+	color: lightpink;
+}
+
+h2{
+	color: LightSteelBlue;
+	font-size: 20px;
+}
+
+h2{
+	color: seagreen;
+}
+
+.big{
+	font-size: 60px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase{
+	color: navy;
+}
+
+h1 span{
+	color:  violet;
+}
